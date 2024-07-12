@@ -1,4 +1,5 @@
 Credit Card Fraud Detection
+
 Credit Card Fraud Detection is the process of identifying and preventing fraudulent activities related to credit card transactions. With the increasing use of credit cards for online and offline purchases, fraudsters have become more sophisticated in their methods, making it crucial for financial institutions and merchants to implement
 
 There are several techniques and technologies used in credit card fraud detection:
